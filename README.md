@@ -1,3 +1,5 @@
+Profile illust by: [@\___Yoshi_CM](https://twitter.com/___Yoshi_CM) (Twitter)
+
 ### 👋 Hello!
 I'm a cat which is majoring in Department of Broadcast Media at [Gyeonggi Media Broadcasting Science High School](http://gmsh.hs.kr/). Let's make a better tomorrow by coding together!
 
@@ -14,7 +16,7 @@ I'm a cat which is majoring in Department of Broadcast Media at [Gyeonggi Media 
 - [Adobe Discord RPC](https://adoberpc.hwahyang.space) (2020.03 ~ current) [@Adobe-Discord-RPC](https://github.com/Adobe-Discord-RPC)
 
 ### 💬 Contact
-- Homepage : [hwahyang.space](https://hwahyang.space) **(Korean Only || Site Renewal Scheduled)**
+- Homepage : [hwahyang.space](https://hwahyang.space) **(Site Renewal Scheduled)**
 - Email : [me@hwahyang.space](mailto:me@hwahyang.space), [hwahyang1223@gmail.com](mailto:hwahyang1223@gmail.com)
 - Business (Develable) : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
 - Facebook : [Channel HwaHyang](https://www.facebook.com/hwahyang1)
