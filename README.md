@@ -1,5 +1,5 @@
 ### 👋 Hello!
-I'm a cat which is majoring in Department of Broadcast Media at Gyeonggi Media Broadcasting Science High School. Let's make a better tomorrow by coding together!
+I'm a cat which is majoring in Department of Broadcast Media at [Gyeonggi Media Broadcasting Science High School](http://gmsh.hs.kr/). Let's make a better tomorrow by coding together!
 
 ### 📖 Tech Stack
 - Python
@@ -7,11 +7,11 @@ I'm a cat which is majoring in Department of Broadcast Media at Gyeonggi Media B
 - PHP
 
 ### 🏫 Education
-- Department of Broadcast Media at Gyeonggi Media Broadcasting Science High School (2020.03 ~ current)
+- Department of Broadcast Media at [Gyeonggi Media Broadcasting Science High School](http://gmsh.hs.kr/) (2020.03 ~ current)
 
 ### 🔥 Experience
-- Develable (2018.07 ~ current) [@Develable](https://github.com/Develable)
-- Adobe Discord RPC (2020.03 ~ current) [@Adobe-Discord-RPC](https://github.com/Adobe-Discord-RPC)
+- [Develable](https://develable.xyz) (2018.07 ~ current) [@Develable](https://github.com/Develable)
+- [Adobe Discord RPC](https://adoberpc.hwahyang.space) (2020.03 ~ current) [@Adobe-Discord-RPC](https://github.com/Adobe-Discord-RPC)
 
 ### 💬 Contact
 - Homepage : [hwahyang.space](https://hwahyang.space) **(Korean Only || Site Renewal Scheduled)**
