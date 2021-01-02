@@ -8,6 +8,8 @@ I'm a cat which is majoring in Department of Broadcast Media at [Gyeonggi Media 
 - Javascript(Typescript) & Node.js
 - PHP
 
+- Firebase, MySQL
+
 ### 🏫 Education
 - Department of Broadcast Media at [Gyeonggi Media Broadcasting Science High School](http://gmsh.hs.kr/) (2020.03 ~ current)
 
