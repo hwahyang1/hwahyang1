@@ -27,6 +27,6 @@
 - 홈페이지 : [hwahyang.space](https://hwahyang.space) **(언젠간 리뉴얼 예정)**
 - 이메일 : [me@hwahyang.space](mailto:me@hwahyang.space)
 - Develable 관련 문의 : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
-- 트위치 : [hwahyang(화향__)](https://www.twitch.tv/hwahyang) **(당분간 방송은 하지 않아요!)**
+- 트위치 : [화향__ (hwahyang)](https://www.twitch.tv/hwahyang) **(당분간 방송은 하지 않아요!)**
 - 페이스북 : [Channel HwaHyang](https://www.facebook.com/hwahyang1)
 - 트위터 : [@\_hwahyang\_](https://twitter.com/_hwahyang_)
