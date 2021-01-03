@@ -1,4 +1,6 @@
-[View in English](https://github.com/hwahyang1/hwahyang1/blob/master/README_EN.md)
+[![View in English Badge](https://img.shields.io/badge/View%20in-English-e97fa4?style=for-the-badge)](https://github.com/hwahyang1/hwahyang1/blob/master/README_EN.md)
+
+-----
 
 프로필 일러스트는 트위터의 [요시님 (@\___Yoshi_CM)](https://twitter.com/___Yoshi_CM) 커미션입니다!
 
@@ -29,4 +31,4 @@
 - Develable 관련 문의 : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
 - 트위치 : [화향__ (hwahyang)](https://www.twitch.tv/hwahyang) **(당분간 방송은 하지 않아요!)**
 - 페이스북 : [Channel HwaHyang](https://www.facebook.com/hwahyang1)
-- 트위터 : [@\_hwahyang\_](https://twitter.com/_hwahyang_)
+- 트위터 : [@\_hwahyang\_](https://twitter.com/_hwahyang_
