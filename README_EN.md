@@ -14,7 +14,7 @@ I'm a cat which is majoring in Department of Broadcast Media at [Gyeonggi Media 
 
 - Firebase, MySQL
 
-### 🏫 아래 학교를 재학했어요!
+### 🏫 Education
 - [Hogok Elementary School](http://hogok.es.kr/) (2011.03 ~ 2017.02)
 - [Hogok Middle School](http://hogok.ms.kr/) (2017.03 ~ 2020.02)
 - Department of Broadcast Media at [Gyeonggi Media Broadcasting Science High School](http://gmsh.hs.kr/) (2020.03 ~ current)
