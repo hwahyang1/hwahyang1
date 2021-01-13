@@ -29,6 +29,6 @@ Click on the project(team) name to go to the homepage, and click the comment to 
 - Homepage : [hwahyang.space](https://hwahyang.space) **(Site Renewal Scheduled)**
 - Email : [me@hwahyang.space](mailto:me@hwahyang.space)
 - Business (Develable) : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
-- Twitch : [화향__ (hwahyang)](https://www.twitch.tv/hwahyang) **(I won't be broadcasting for a while!)**
-- Facebook : [Channel HwaHyang](https://www.facebook.com/hwahyang1)
-- Twitter : [@\_hwahyang\_](https://twitter.com/_hwahyang_)
+- Twitch : [화향__ (hwahyang)](https://www.twitch.tv/hwahyang) **(I won't be broadcasting for a while)**
+- Facebook : [Channel HwaHyang](https://www.facebook.com/hwahyang1) **(This account will not be used for the time being.)**
+- Twitter : [@\_hwahyang\_](https://twitter.com/_hwahyang_) **(This account will not be used for the time being.)**
