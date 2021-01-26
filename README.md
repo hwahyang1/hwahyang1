@@ -26,9 +26,9 @@
 - [Adobe Discord RPC](https://adoberpc.hwahyang.space)([@Adobe-Discord-RPC](https://github.com/Adobe-Discord-RPC)) - 프로젝트 리더 (2020.03 ~ 현재)
 
 ### 💬 문의나 SNS는 아래를 참고 해 주세요!
-- 홈페이지 : [hwahyang.space](https://hwahyang.space) **(언젠간 리뉴얼 예정)**
+- 홈페이지 : [pf.hwahyang.space](https://pf.hwahyang.space) **(고장)**
 - 이메일 : [me@hwahyang.space](mailto:me@hwahyang.space)
 - Develable 관련 문의 : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
 - 트위치 : [화향__ (hwahyang)](https://www.twitch.tv/hwahyang) **(당분간 방송은 하지 않아요!)**
-- 페이스북 : [Channel HwaHyang](https://www.facebook.com/hwahyang1) **(당분간 사용하지 않아요!)**
-- 트위터 : [@\_hwahyang\_](https://twitter.com/_hwahyang_) **(당분간 사용하지 않아요!)**
+- 페이스북 : [Channel HwaHyang](https://www.facebook.com/hwahyang1)
+- 트위터 : [@\_hwahyang\_](https://twitter.com/_hwahyang_)
