@@ -28,7 +28,8 @@ Click on the project(team) name to go to the homepage, and click the comment to 
 - [Adobe Discord RPC](https://adoberpc.hwahyang.space)([@Adobe-Discord-RPC](https://github.com/Adobe-Discord-RPC)) - Project Leader (2020.03 ~ current)
 
 ### 💬 Contact & SNS
-- Homepage : [pf.hwahyang.space](https://pf.hwahyang.space) **(Site Broken)**
+- Homepage : **under construction**
+- Portfolio : [pf.hwahyang.space](https://pf.hwahyang.space) **(Site Broken)**
 - Email : [me@hwahyang.space](mailto:me@hwahyang.space)
 - Business (Develable) : [hwahyang@develable.xyz](mailto:hwahyang@develable.xyz)
 - Twitch : [화향__ (hwahyang)](https://www.twitch.tv/hwahyang) **(I won't be broadcasting for a while)**
