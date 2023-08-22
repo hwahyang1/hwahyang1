@@ -40,6 +40,7 @@
 ### 📄 아래의 프로젝트를 진행(참여)하고 있어요!
 - **MineBeat** - 기획, 디자인, 클라이언트 프로그래밍 ([GitHub](https://github.com/hwahyang1/MineBeat))
 - **티키토크 카카오톡 테마**([MeowLabs](https://github.com/Me0wLabs)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
+- **HoshimiStage** - 한국어 번역 ([Web](https://ipr.vibbit.me/), [GitHub](https://github.com/MalitsPlus/HoshimiStage))
 - **비공개 프로젝트**() - 클라이언트 프로그래밍 (공동작업, 2024.01 공개예정)
 
 &nbsp;
