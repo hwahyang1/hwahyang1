@@ -38,6 +38,7 @@
 &nbsp;
 
 ### 📄 아래의 프로젝트를 진행(참여)하고 있어요!
+- **hwahyang.space** - 웹 개발 ([Web](https://hwahyang.space/), [GitHub](https://github.com/hwahyang-space))
 - **MineBeat** - 기획, 디자인, 클라이언트 프로그래밍 ([GitHub](https://github.com/hwahyang1/MineBeat))
 - **티키토크 카카오톡 테마**([MeowLabs](https://github.com/Me0wLabs)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
 - **HoshimiStage** - 한국어 번역 ([Web](https://ipr.vibbit.me/), [GitHub](https://github.com/MalitsPlus/HoshimiStage))
