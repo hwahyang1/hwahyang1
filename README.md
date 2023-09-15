@@ -10,11 +10,12 @@
 
 - **게임 엔진**
     - Unity
+    - Unreal Engine
 
-<!--
 - **네트워킹**
+    - Socket (TCP/IP)
     - WebSocket
--->
+    - Socket.io
 
 - **데이터베이스**
     - MySQL (SQL 기반의 RDBMS 전체)
