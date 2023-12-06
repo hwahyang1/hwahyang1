@@ -57,5 +57,5 @@
 
 ### 💬 문의나 SNS는 아래를 참고 해 주세요!
 - 홈페이지: [hwahyang.space](https://hwahyang.space)
-- 이메일: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
+- ~~이메일: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)~~ 현재 메일 수신 불가능 (원인 파악중)
 - 트위터: [@\_hwahyang\_](https://twitter.com/_hwahyang_)
