@@ -35,18 +35,17 @@
 
 ### 🏫 아래의 교육기관을 지나왔어요!
 - [경기영상과학고등학교](http://gmsh.hs.kr/) 방송미디어과 졸업 (2020.03 ~ 2023.02)
-- [청강문화산업대학교](https://www.ck.ac.kr/) [게임콘텐츠스쿨](https://ckchronicle.com/) 휴학 (2023.03 ~ )
+- [청강문화산업대학교](https://www.ck.ac.kr/) [게임콘텐츠스쿨](https://ckchronicle.com/) 재학 (2023.03 ~ , 2024년도 휴학중)
 
 &nbsp;
 
 ### 📄 아래의 프로젝트를 진행(참여)하고 있어요!
 - **hwahyang.space** - 웹 개발 ([Web](https://hwahyang.space/), [GitHub](https://github.com/hwahyang-space))
-- **MineBeat** - 기획, 디자인, 클라이언트 프로그래밍 ([GitHub](https://github.com/hwahyang1/MineBeat))
 - **티키토크 카카오톡 테마**([MeowLabs](https://github.com/Me0wLabs)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
 - **HoshimiStage** - 한국어 번역 ([Web](https://ipr.vibbit.me/), [GitHub](https://github.com/MalitsPlus/HoshimiStage))
 - **INFO PRIDE** - 한국어 번역 ([Web](https://ip.outv.im/), [GitHub](https://github.com/outloudvi/info-pride))
 - **비공개 프로젝트**(Mt.CULTURE) - 클라이언트 프로그래밍 (공동작업, 2024.03 공개예정)
-- **비공개 프로젝트**(Team. Infinity) - 클라이언트 프로그래밍 (공동작업, 2024.07 공개예정)
+- **비공개 프로젝트**(Team. Infinity) - 클라이언트 프로그래밍 (2024.07 공개예정)
 
 &nbsp;
 
