@@ -18,7 +18,7 @@
     - Socket.io
 
 - **데이터베이스**
-    - MySQL (SQL 기반의 RDBMS 전체)
+    - MySQL (또는, SQL 기반의 RDBMS 전체)
 
 - **기타 서비스**
     - Firebase
@@ -40,11 +40,10 @@
 &nbsp;
 
 ### 📄 아래의 프로젝트를 진행(참여)하고 있어요!
-- **hwahyang.space** - 웹 개발 ([Web](https://hwahyang.space/), [GitHub](https://github.com/hwahyang-space))
-- **티키토크 카카오톡 테마**([MeowLabs](https://github.com/Me0wLabs)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
+- **hwahyang.space**([MeowLabs](https://meowlabs.kr)) - 웹 개발 ([Web](https://hwahyang.space/), [GitHub](https://github.com/hwahyang-space))
+- **티키토크 카카오톡 테마**([MeowLabs](https://meowlabs.kr)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
 - **HoshimiStage** - 한국어 번역 ([Web](https://ipr.vibbit.me/), [GitHub](https://github.com/MalitsPlus/HoshimiStage))
 - **INFO PRIDE** - 한국어 번역 ([Web](https://ip.outv.im/), [GitHub](https://github.com/outloudvi/info-pride))
-- **비공개 프로젝트**(Mt.CULTURE) - 클라이언트 프로그래밍 (공동작업, 2024.03 공개예정)
 - **비공개 프로젝트**(Team. Infinity) - 클라이언트 프로그래밍 (2024.07 공개예정)
 
 &nbsp;
