@@ -1,3 +1,11 @@
+# !! IMPORTANT !!
+
+I'm very busy(~ Feb 2025). If you send me an email, I'll check it as soon as possible.
+
+E-mail: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
+
+---
+
 프로필 일러스트는 트위터 향연([@H_Yeon_249](https://twitter.com/H_Yeon_249))님의 일러스트에요!
 
 ### 👋 만나서 반가워요!
