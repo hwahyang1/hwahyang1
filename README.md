@@ -1,6 +1,6 @@
 # !! IMPORTANT !!
 
-I'm very busy(~ Feb 2025). If you send me an email, I'll check it as soon as possible.
+I'm very busy(~ May 2025). If you send me an email, I'll check it as soon as possible.
 
 E-mail: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
 
