@@ -1,11 +1,3 @@
-# !! IMPORTANT !!
-
-I'm very busy(~ May 2025). If you send me an email, I'll check it as soon as possible.
-
-E-mail: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
-
----
-
 프로필 일러스트는 트위터 향연([@H_Yeon_249](https://twitter.com/H_Yeon_249))님의 일러스트에요!
 
 ### 👋 만나서 반가워요!
@@ -21,12 +13,13 @@ E-mail: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
     - Unreal Engine
 
 - **네트워킹**
-    - Socket (TCP/IP)
-    - WebSocket
-    - Socket.io
+    - Socket (TCP/UDP)
+    - Socket.io (WebSocket)
+    - REST API
 
 - **데이터베이스**
     - MySQL (또는, SQL 기반의 RDBMS 전체)
+    - Redis
 
 - **기타 서비스**
     - Firebase
