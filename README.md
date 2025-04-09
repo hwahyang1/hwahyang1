@@ -18,7 +18,7 @@
     - REST API
 
 - **데이터베이스**
-    - MySQL (또는, SQL 기반의 RDBMS 전체)
+    - MySQL
     - Redis
 
 - **기타 서비스**
@@ -40,15 +40,6 @@
 
 &nbsp;
 
-### 📄 아래의 프로젝트를 진행(참여)하고 있어요!
-- **hwahyang.space**([MeowLabs](https://meowlabs.kr)) - 웹 개발 ([Web](https://hwahyang.space/), [GitHub](https://github.com/hwahyang-space))
-- **티키토크 카카오톡 테마**([MeowLabs](https://meowlabs.kr)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
-- **HoshimiStage** - 한국어 번역 ([Web](https://ipr.vibbit.me/), [GitHub](https://github.com/MalitsPlus/HoshimiStage))
-- **INFO PRIDE** - 한국어 번역 ([Web](https://ip.outv.im/), [GitHub](https://github.com/outloudvi/info-pride))
-- **OVER ROAD**(Team. Infinity) - 클라이언트/서버 프로그래밍, 영상 디자인 (공동작업, [Web](https://overroad.meowlabs.kr))
-
-&nbsp;
-
 <!--
 ### 💼 아래의 직장에 재직하고 있어요!
 - [회사명](https://example.com) 담당업무 [재직/퇴사] (20xx.xx ~ 20xx.xx)
@@ -56,7 +47,16 @@
 &nbsp;
 -->
 
+### 📄 아래의 프로젝트를 진행(참여)하고 있어요!
+- **hwahyang.space**([MeowLabs](https://meowlabs.kr)) - 웹 개발 ([Web](https://hwahyang.space/), [GitHub](https://github.com/hwahyang-space))
+- **티키토크 카카오톡 테마**([MeowLabs](https://meowlabs.kr)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
+- **HoshimiStage** - 한국어 번역 ([Web](https://ipr.vibbit.me/), [GitHub](https://github.com/MalitsPlus/HoshimiStage))
+- **INFO PRIDE** - 한국어 번역 ([Web](https://ip.outv.im/), [GitHub](https://github.com/outloudvi/info-pride))
+- **OVER ROAD**(Team. Infinity) - 클라이언트/서버 프로그래밍, 영상 디자인 (클라이언트 공동작업, [Web](https://overroad.meowlabs.kr))
+
+&nbsp;
+
 ### 💬 문의나 SNS는 아래를 참고 해 주세요!
 - 홈페이지: [hwahyang.space](https://hwahyang.space)
 - 이메일: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
-- 트위터: [@\_hwahyang\_](https://twitter.com/_hwahyang_)
+- X(Formerly Twitter): [@\_hwahyang\_](https://x.com/_hwahyang_)
