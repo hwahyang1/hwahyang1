@@ -36,7 +36,7 @@
 
 ### 🏫 아래의 교육기관을 지나왔어요!
 - [경기영상과학고등학교](http://gmsh.hs.kr/) 방송미디어과 졸업 (2020.03 ~ 2023.02)
-- [청강문화산업대학교](https://www.ck.ac.kr/) [게임콘텐츠스쿨](https://ckchronicle.com/) 재학 (2023.03 ~ , 2024년도 휴학)
+- [청강문화산업대학교](https://www.ck.ac.kr/) [게임콘텐츠스쿨](https://ckchronicle.com/) 재학 (2023.03 ~ )
 
 &nbsp;
 
@@ -51,7 +51,10 @@
 - **hwahyang.space**([MeowLabs](https://meowlabs.kr)) - 웹 개발 ([Web](https://hwahyang.space/), [GitHub](https://github.com/hwahyang-space))
 - **티키토크 카카오톡 테마**([MeowLabs](https://meowlabs.kr)) - 유지보수 및 배포관리 ([Google Play](https://play.google.com/store/apps/details?id=com.hb.theme.tikitalk), [Galaxy Store](http://apps.samsung.com/appquery/appDetail.as?appId=com.hb.theme.tikitalk))
 - **INFO PRIDE** - 한국어 번역 ([Web](https://ip.outv.im/), [GitHub](https://github.com/outloudvi/info-pride))
-- **OVER ROAD**(Team. Infinity) - 클라이언트/서버 프로그래밍, 영상 디자인 (클라이언트 공동작업, [Web](https://overroad.meowlabs.kr))
+- **OVER ROAD**(Team. Infinity) - 클라이언트/서버 프로그래밍, 영상 디자인, 출시 전반 (클라이언트 공동작업, [Web](https://overroad.meowlabs.kr))
+<!--
+- **프로젝트명**(단체명) - 업무명 (링크)
+-->
 
 &nbsp;
 
