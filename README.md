@@ -53,7 +53,7 @@
 - **INFO PRIDE** - 한국어 번역 ([Web](https://ip.outv.im/), [GitHub](https://github.com/outloudvi/info-pride))
 - **OVER ROAD**(Team. Infinity) - 클라이언트/서버 프로그래밍, 영상 디자인, 출시 전반 (클라이언트 공동작업, [Web](https://overroad.meowlabs.kr))
 <!--
-- **프로젝트명**(단체명) - 업무명 (링크)
+- **프로젝트명** - Project Manager, Technical Artist ([Youtube]())
 -->
 
 &nbsp;
@@ -61,4 +61,5 @@
 ### 💬 문의나 SNS는 아래를 참고 해 주세요!
 - 홈페이지: [hwahyang.space](https://hwahyang.space)
 - 이메일: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
+- LinkedIn: [hwahyang](https://www.linkedin.com/in/hwahyang/)
 - X(Formerly Twitter): [@\_hwahyang\_](https://x.com/_hwahyang_)
