@@ -21,7 +21,7 @@
     - MySQL
     - Redis
 
-- **기타 서비스**
+- **BaaS**
     - Firebase
     - Photon (PUN/Fusion)
 
