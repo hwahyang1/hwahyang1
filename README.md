@@ -4,9 +4,9 @@
 
 ### 📖 저는 이런 것들을 할 수 있어요!
 - **프로그래밍 언어**
+    - C#
     - Typescript
     - C & C++
-    - C#
 
 - **게임 엔진**
     - Unity
@@ -40,13 +40,13 @@
 &nbsp;
 -->
 
-### 📄 아래의 프로젝트를 진행(참여)하고 있어요!
+### 📄 아래의 프로젝트에 참여했어요!
 - **OVER ROAD**(Team. Infinity) - 클라이언트/서버 프로그래밍, 영상 디자인, 출시 전반 (클라이언트 공동작업, [Web](https://overroad.meowlabs.kr))
 - **The Run Catch** - Project Manager, Technical Artist ([Youtube](https://youtu.be/ASWrJXCcqtM))
 
 &nbsp;
 
-### 💬 문의나 SNS는 아래를 참고 해 주세요!
+### 💬 문의나 SNS는 아래를 참고해 주세요!
 - 홈페이지: [hwahyang.space](https://hwahyang.space)
 - 포트폴리오: [pf.hwahyang.space](https://pf.hwahyang.space)
 - 이메일: [hwahyang@meowlabs.kr](mailto:hwahyang@meowlabs.kr)
